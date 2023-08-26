@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243680386401",
+    "project_id": "easy-task-834f9",
+    "storage_bucket": "easy-task-834f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243680386401:android:299304c0f5d8ba38333920",
+        "android_client_info": {
+          "package_name": "com.example.task_easy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243680386401-vuk9h49onkvvdou35cpg7rsilbbkv3mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGwot6_5ybv4onKuxolrnllbxRt1gx8yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243680386401-vuk9h49onkvvdou35cpg7rsilbbkv3mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
