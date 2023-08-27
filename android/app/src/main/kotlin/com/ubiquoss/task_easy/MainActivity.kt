@@ -1,4 +1,4 @@
-package com.example.task_easy
+package com.ubiquoss.task_easy
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -54,16 +54,12 @@ class _OutwardPageState extends State<OutwardPage> {
       sound: true,
     );
 
-    print(settings.authorizationStatus);
-    print('------');
-    print(AuthorizationStatus.authorized);
-
     if (settings.authorizationStatus == AuthorizationStatus.authorized) {
       print('User granted permission');
       // For handling the received notifications
       FirebaseMessaging.onMessage.listen((RemoteMessage message) {
         // Parse the message received
-        print("llllll");
+
         PushNotification notification = PushNotification(
           title: message.notification?.title,
           body: message.notification?.body,
